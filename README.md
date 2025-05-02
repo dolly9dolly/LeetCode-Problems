@@ -1,8 +1,9 @@
-A curated collection of LeetCode questions to help you ace your coding interviews and strengthen your problem-solving skills! 🚀
+A Curated Collection of My LeetCode Solutions 🚀
 
-Problems are organized for efficient practice.
-Solutions are crafted with clarity and optimization in mind.
-Created and updated using LeetHub-3.0.
-Happy coding and keep improving! 💻✨
+This repository showcases my personal journey through solving LeetCode problems to strengthen my coding and problem-solving skills.
 
+📂 Problems are organized by topic for structured learning
+✍️ Each solution is written with clarity and optimized for performance
+🔄 Updated regularly using LeetHub-3.0 for seamless GitHub syncing
+This serves as a track record of my growth—happy coding! 💻✨
 
