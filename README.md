@@ -23,3 +23,15 @@ This repository serves as a transparent track record of my growth as a developer
 ---
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/dolly9dolly/LeetCode-Problems/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/dolly9dolly/LeetCode-Problems/tree/master/0035-search-insert-position) |
+<!---LeetCode Topics End-->
