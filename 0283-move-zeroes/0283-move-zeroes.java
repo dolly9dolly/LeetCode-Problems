@@ -10,6 +10,5 @@ class Solution {
         for(int i=slow;i<nums.length;i++){
             nums[i] = 0;
         }
-        
     }
 }
