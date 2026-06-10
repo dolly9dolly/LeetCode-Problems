@@ -42,8 +42,17 @@ This repository serves as a transparent track record of my growth as a developer
 | ------- |
 | [0027-remove-element](https://github.com/dolly9dolly/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/dolly9dolly/LeetCode-Problems/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/dolly9dolly/LeetCode-Problems/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dolly9dolly/LeetCode-Problems/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/dolly9dolly/LeetCode-Problems/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/dolly9dolly/LeetCode-Problems/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
