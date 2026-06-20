@@ -34,6 +34,7 @@ This repository serves as a transparent track record of my growth as a developer
 | [0027-remove-element](https://github.com/dolly9dolly/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/dolly9dolly/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0283-move-zeroes](https://github.com/dolly9dolly/LeetCode-Problems/tree/master/0283-move-zeroes) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/dolly9dolly/LeetCode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,10 +46,12 @@ This repository serves as a transparent track record of my growth as a developer
 | [0027-remove-element](https://github.com/dolly9dolly/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/dolly9dolly/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/dolly9dolly/LeetCode-Problems/tree/master/0392-is-subsequence) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/dolly9dolly/LeetCode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dolly9dolly/LeetCode-Problems/tree/master/0001-two-sum) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/dolly9dolly/LeetCode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 ## String
 |  |
 | ------- |
@@ -61,4 +64,8 @@ This repository serves as a transparent track record of my growth as a developer
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dolly9dolly/LeetCode-Problems/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [1679-max-number-of-k-sum-pairs](https://github.com/dolly9dolly/LeetCode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->
