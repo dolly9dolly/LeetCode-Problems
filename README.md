@@ -35,11 +35,13 @@ This repository serves as a transparent track record of my growth as a developer
 | [0035-search-insert-position](https://github.com/dolly9dolly/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0283-move-zeroes](https://github.com/dolly9dolly/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/dolly9dolly/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/dolly9dolly/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/dolly9dolly/LeetCode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/dolly9dolly/LeetCode-Problems/tree/master/0035-search-insert-position) |
+| [1004-max-consecutive-ones-iii](https://github.com/dolly9dolly/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,5 +76,10 @@ This repository serves as a transparent track record of my growth as a developer
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/dolly9dolly/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/dolly9dolly/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dolly9dolly/LeetCode-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/dolly9dolly/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
