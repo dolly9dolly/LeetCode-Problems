@@ -34,6 +34,7 @@ This repository serves as a transparent track record of my growth as a developer
 | [0027-remove-element](https://github.com/dolly9dolly/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/dolly9dolly/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0283-move-zeroes](https://github.com/dolly9dolly/LeetCode-Problems/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/dolly9dolly/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0643-maximum-average-subarray-i](https://github.com/dolly9dolly/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/dolly9dolly/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/dolly9dolly/LeetCode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -81,5 +82,10 @@ This repository serves as a transparent track record of my growth as a developer
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/dolly9dolly/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [1004-max-consecutive-ones-iii](https://github.com/dolly9dolly/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/dolly9dolly/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
